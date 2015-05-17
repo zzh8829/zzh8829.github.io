@@ -1,4 +1,5 @@
 zzh8829.github.io
 =================
 
-website
+This website automatically redirects to http://zihao.me
+
